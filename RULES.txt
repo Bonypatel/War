@@ -1,5 +1,3 @@
-# My version of War for a Deacom exercise
-
 The goal is to be the first player to win all 52 cards
 
 THE DEAL
