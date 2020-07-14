@@ -1,0 +1,13 @@
+E:\Job Search\War!\War\bin\Debug\netcoreapp3.1\War.exe
+E:\Job Search\War!\War\bin\Debug\netcoreapp3.1\War.deps.json
+E:\Job Search\War!\War\bin\Debug\netcoreapp3.1\War.runtimeconfig.json
+E:\Job Search\War!\War\bin\Debug\netcoreapp3.1\War.runtimeconfig.dev.json
+E:\Job Search\War!\War\bin\Debug\netcoreapp3.1\War.dll
+E:\Job Search\War!\War\bin\Debug\netcoreapp3.1\War.pdb
+E:\Job Search\War!\War\obj\Debug\netcoreapp3.1\War.csprojAssemblyReference.cache
+E:\Job Search\War!\War\obj\Debug\netcoreapp3.1\War.AssemblyInfoInputs.cache
+E:\Job Search\War!\War\obj\Debug\netcoreapp3.1\War.AssemblyInfo.cs
+E:\Job Search\War!\War\obj\Debug\netcoreapp3.1\War.csproj.CoreCompileInputs.cache
+E:\Job Search\War!\War\obj\Debug\netcoreapp3.1\War.dll
+E:\Job Search\War!\War\obj\Debug\netcoreapp3.1\War.pdb
+E:\Job Search\War!\War\obj\Debug\netcoreapp3.1\War.genruntimeconfig.cache

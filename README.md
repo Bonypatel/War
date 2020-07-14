@@ -16,3 +16,6 @@ The game ends when one player has won all the cards.
 
 
 Rules from : https://bicyclecards.com/how-to-play/war/#:~:text=Each%20player%20turns%20up%20a,both%20piles%20(six%20cards).
+
+
+TO RUN: Please run \bin\Debug\netcoreapp3.1\War.exe
